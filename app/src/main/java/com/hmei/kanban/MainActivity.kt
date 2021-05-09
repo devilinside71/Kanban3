@@ -1,6 +1,7 @@
 package com.hmei.kanban
 
 import android.R
+import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.View
 import android.widget.TextView
